@@ -1,0 +1,23 @@
+{
+  "equipment": [
+    {
+      "equipName": "Blender",
+      "wattage": 500
+    },
+    {
+      "equipName": "CanOpener",
+      "wattage": 150
+    },
+    { "equipName": "Clock Radio", "wattage": 7 },
+    { "equipName": "Curling Iron", "wattage": 150 },
+    { "equipName": "Dehumidifier", "wattage": 280 },
+    { "equipName": "Electric Shaver", "wattage": 15 },
+    { "equipName": "Electric Blanket", "wattage": 200 },
+    { "equipName": "Hair Dryer", "wattage": 1500 },
+    { "equipName": "Humidifier", "wattage": 200 },
+    { "equipName": "Radio telephone–Receive", "wattage": 5 },
+    { "equipName": "Radio telephone–Transmit", "wattage": 75 },
+    { "equipName": "Sewing Machine", "wattage": 100 },
+    { "equipName": "Vacuum", "wattage": 1000 }
+      ]
+}
