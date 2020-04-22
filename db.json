@@ -1,87 +1,24 @@
 {
   "equipment": [
-    {
-      "equipName": "Blender",
-      "wattage": 500
-    },
-    {
-      "equipName": "CanOpener",
-      "wattage": 150
-    },
+    {"equipName": "Blender","wattage": 500},
+    { "equipName": "CanOpener","wattage": 150},
     { "equipName": "CoffeeMachine", "wattage": 1000 },
     { "equipName": "Dishwasher", "wattage": 1500 },
-    { "equipName": "EspressoMachine", "wattage": 800 },
-    {
-      "equipName": "Freezer–Upright–15cu.ft.",
-      "wattage": "1240Wh/Day**"
-    },
-    {
-      "equipName": "Freezer–Chest–15cu.ft.",
-      "wattage": "1080Wh/Day**"
-    },
-    {
-      "equipName": "Fridge–20cu.ft.(AC)",
-      "wattage": "1411Wh/day**"
-    },
-    {
-      "equipName": "Fridge-16cu.ft.(AC)",
-      "wattage": "1200Wh/day**"
-    },
-    { "equipName": "GarbageDisposal", "wattage": 450 },
     { "equipName": "Kettle–Electric", "wattage": 1200 },
     { "equipName": "Microwave", "wattage": 1000 },
     { "equipName": "Oven–Electric", "wattage": 1200 },
     { "equipName": "Toaster", "wattage": 850 },
     { "equipName": "Toaster Oven", "wattage": 1200 },
     { "equipName": "Stand Mixer", "wattage": 300 },
-
     { "equipName": "Box Fan", "wattage": 200 },
     { "equipName": "Ceiling Fan", "wattage": 120 },
-    {
-      "equipName": "Central Air Conditioner–24,000BTUNA",
-      "wattage": 3800
-    },
-    {
-      "equipName": "Central Air Conditioner–10,000BTUNA",
-      "wattage": 3250
-    },
-    { "equipName": "Furnace Fan Blower", "wattage": 800 },
-    { "equipName": "Space Heater NA", "wattage": 1500 },
     { "equipName": "Bluray Player", "wattage": 15 },
     { "equipName": "Cable Box", "wattage": 35 },
-    { "equipName": "DVD Player", "wattage": 15 },
     { "equipName": "TV–LCD", "wattage": 150 },
     { "equipName": "TV–Plasma", "wattage": 200 },
     { "equipName": "Satellite Dish", "wattage": 25 },
     { "equipName": "Stereo Receiver", "wattage": 450 },
     { "equipName": "Video Game Console", "wattage": 150 },
-
-    { "equipName": "CFLBulb–40 Watt Equivalent", "wattage": 11 },
-    { "equipName": "CFLBulb–60 Watt Equivalent", "wattage": 18 },
-    { "equipName": "CFLBulb–75 Watt Equivalent", "wattage": 20 },
-    { "equipName": "CFLBulb–100 Watt Equivalent", "wattage": 30 },
-    { "equipName": "Compact Fluorescent 20 Watt", "wattage": 22 },
-    { "equipName": "Compact Fluorescent 25 Watt", "wattage": 28 },
-    { "equipName": "Halogen–40Watt", "wattage": 40 },
-    { "equipName": "Incandescent 50Watt", "wattage": 50 },
-    { "equipName": "Incandescent 100Watt", "wattage": 100 },
-    { "equipName": "LEDBulb–40Watt Equivalent", "wattage": 10 },
-    { "equipName": "LEDBulb–60Watt Equivalent", "wattage": 13 },
-    { "equipName": "LEDBulb–75watt equivalent", "wattage": 18 },
-    { "equipName": "LEDBulb–100Watt Equivalent", "wattage": 23 },
-
-    { "equipName": "Band Saw–14″", "wattage": 1100 },
-    { "equipName": "Belt Sander–3″", "wattage": 1000 },
-    { "equipName": "Chain Saw–12″", "wattage": 1100 },
-    { "equipName": "Circular Saw–7-1/4″", "wattage": 900 },
-    { "equipName": "Circular Saw8-1/4″", "wattage": 1400 },
-    { "equipName": "Disc Sander–9″", "wattage": 1200 },
-    { "equipName": "Drill–1/4″", "wattage": 250 },
-    { "equipName": "Drill–1/2″", "wattage": 750 },
-    { "equipName": "Drill–1″", "wattage": 1000 },
-    { "equipName": "Hedge Trimmer", "wattage": 450 },
-    { "equipName": "Weed Eater", "wattage": 500 },
-
     { "equipName": "Clock Radio", "wattage": 7 },
     { "equipName": "Curling Iron", "wattage": 150 },
     { "equipName": "Dehumidifier", "wattage": 280 },
@@ -89,45 +26,9 @@
     { "equipName": "Electric Blanket", "wattage": 200 },
     { "equipName": "Hair Dryer", "wattage": 1500 },
     { "equipName": "Humidifier", "wattage": 200 },
-    { "equipName": "Radio telephone–Receive", "wattage": 5 },
-    { "equipName": "Radio telephone–Transmit", "wattage": 75 },
     { "equipName": "Sewing Machine", "wattage": 100 },
     { "equipName": "Vacuum", "wattage": 1000 },
 
-    { "equipName": "CFLBulb–40Watt Equivalent", "wattage": 11 },
-    { "equipName": "CFLBulb–60Watt Equivalent", "wattage": 18 },
-    { "equipName": "CFLBulb–75Watt Equivalent", "wattage": 20 },
-    { "equipName": "CFLBulb–100Watt Equivalent", "wattage": 30 },
-    { "equipName": "Compact Fluorescent 20Watt", "wattage": 22 },
-    { "equipName": "CompactFluorescent25Watt", "wattage": 28 },
-    { "equipName": "Halogen–40Watt", "wattage": 40 },
-    { "equipName": "Incandescent 50Watt", "wattage": 50 },
-    { "equipName": "Incandescent 100Watt", "wattage": 100 },
-    { "equipName": "LED Bulb–40Watt Equivalent", "wattage": 10 },
-    { "equipName": "LED Bulb–60WattEquivalent", "wattage": 13 },
-    { "equipName": "LED Bulb–75wattequivalent", "wattage": 18 },
-    { "equipName": "LED Bulb–100WattEquivalent", "wattage": 23 },
-    { "equipName": "Band Saw–14″", "wattage": 1100 },
-    { "equipName": "Belt Sander–3″", "wattage": 1000 },
-    { "equipName": "Chain Saw–12″", "wattage": 1100 },
-    { "equipName": "Circular Saw–7-1/4″", "wattage": 900 },
-    { "equipName": "CircularSaw8-1/4″", "wattage": 1400 },
-    { "equipName": "Disc Sander–9″", "wattage": 1200 },
-    { "equipName": "Drill–1/4″", "wattage": 250 },
-    { "equipName": "Drill–1/2″", "wattage": 750 },
-    { "equipName": "Drill–1″", "wattage": 1000 },
-    { "equipName": "HedgeTrimmer", "wattage": 450 },
-    { "equipName": "WeedEater", "wattage": 500 },
-    { "equipName": "ClockRadio", "wattage": 7 },
-    { "equipName": "CurlingIron", "wattage": 150 },
-    { "equipName": "Dehumidifier", "wattage": 280 },
-    { "equipName": "Electric Shaver", "wattage": 15 },
-    { "equipName": "Electric Blanket", "wattage": 200 },
-    { "equipName": "Hair Dryer", "wattage": 1500 },
-    { "equipName": "Humidifier", "wattage": 200 },
-    { "equipName": "Radio telephone–Receive", "wattage": 5 },
-    { "equipName": "Radio telephone–Transmit", "wattage": 75 },
-    { "equipName": "Sewing Machine", "wattage": 100 },
-    { "equipName": "Vacuum", "wattage": 1000 }
+
   ]
 }
