@@ -1,5 +1,5 @@
 {
-  "equipment": [
+  "equipment2": [
     {
       "equipName": "Blender",
       "wattage": 500
@@ -19,5 +19,32 @@
     { "equipName": "Radio telephone–Transmit", "wattage": 75 },
     { "equipName": "Sewing Machine", "wattage": 100 },
     { "equipName": "Vacuum", "wattage": 1000 }
-      ]
+      ],
+"equipment": [
+    {
+      "id": 1,
+      "equip": "tv",
+      "watts": 300,
+      "on": false
+    },
+    {
+      "id": 2,
+      "equip": "laptop",
+      "watts": 120,
+      "on": true
+    },
+    {
+      "id": 3,
+      "equip": "phone",
+      "watts": 10,
+      "on": true
+    },
+    {
+      "id": 4,
+      "equip": "fridge",
+      "watts": 500,
+      "on": true
+    }
+  
 }
+
